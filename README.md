@@ -1,12 +1,10 @@
 # Kevin van der Poll
 
-WIP!
-
 [![Waka Readme](https://github.com/kaypon/kaypon/actions/workflows/main.yml/badge.svg)](https://github.com/kaypon/kaypon/actions/workflows/main.yml)
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77909%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Bashed%20out-77909%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
