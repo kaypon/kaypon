@@ -2,7 +2,7 @@
 
 WIP!
 
-[![Waka Readme Full](https://github.com/kaypon/kaypon/actions/workflows/update_readme.yml/badge.svg)](https://github.com/kaypon/kaypon/actions/workflows/update_readme.yml)
+[![Waka Readme](https://github.com/kaypon/kaypon/actions/workflows/main.yml/badge.svg)](https://github.com/kaypon/kaypon/actions/workflows/main.yml)
 
 
 <!--START_SECTION:waka-->
