@@ -2,6 +2,9 @@
 
 WIP!
 
+[![Waka Readme Full](https://github.com/kaypon/kaypon/actions/workflows/update_readme.yml/badge.svg)](https://github.com/kaypon/kaypon/actions/workflows/update_readme.yml)
+
+
 <!--START_SECTION:waka-->
 ```text
 Vue.js       12 hrs 9 mins   ████████████████████████▒   96.68 % 
