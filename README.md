@@ -35,16 +35,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Havana
 
 💬 Programming Languages: 
-Vue.js                   1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-smoke_shop               1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
