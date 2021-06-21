@@ -53,5 +53,5 @@ Mac                      1 hr 9 mins         ███████████�
 ```
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
