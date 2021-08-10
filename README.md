@@ -35,16 +35,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Havana
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               38 mins             █████████████████████░░░░   84.46% 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.54%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+app2                     45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.0%
 
 ```
 
