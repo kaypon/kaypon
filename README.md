@@ -35,21 +35,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Havana
 
 💬 Programming Languages: 
-JavaScript               28 mins             ███████████████████████░░   92.99% 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-crypto_kims              20 mins             █████████████████░░░░░░░░   67.53% 
-cryptokims_chris_version-9 mins              ████████░░░░░░░░░░░░░░░░░   32.47%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
