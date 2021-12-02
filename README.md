@@ -4,7 +4,9 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77909%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2043%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,5 +51,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
