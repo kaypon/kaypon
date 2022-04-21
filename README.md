@@ -4,8 +4,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -51,5 +49,5 @@ Mac                      8 mins              ███████████�
 ```
 
 
- Last Updated on 21/04/2022 00:52:25 UTC
+ Last Updated on 21/04/2022 08:17:19 UTC
 <!--END_SECTION:waka-->
