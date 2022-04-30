@@ -4,8 +4,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2018%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -37,21 +35,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Havana
 
 💬 Programming Languages: 
-JavaScript               23 mins             ██████████████████████░░░   87.85% 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-starting-project         18 mins             █████████████████░░░░░░░░   70.29% 
-Unknown Project          7 mins              ███████░░░░░░░░░░░░░░░░░░   29.71%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/04/2022 00:57:30 UTC
+ Last Updated on 30/04/2022 08:15:01 UTC
 <!--END_SECTION:waka-->
